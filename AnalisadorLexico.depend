@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553991720 source:c:\users\rodrigo\desktop\analisadorlexico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
